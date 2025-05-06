@@ -1,6 +1,9 @@
 # CS2 Market History - Case Data Extractor
 A Python script that filters and organizes Counter-Strike 2 market history data from a CSV file. It extracts all case-related trade entries and saves each unique case to its own clean, individual CSV file for easier analysis or tracking.
 
+## Getting the Market Data
+You can retrieve your Steam market history CSV using the browser extension [Steam Market History Cataloger](https://github.com/juliarose/Steam-Market-History-Cataloger).
+
 ## Example
 ### Input
 `market_data.csv`
